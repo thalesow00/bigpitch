@@ -1,0 +1,2 @@
+class PrviteMessage < ApplicationRecord
+end
